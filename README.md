@@ -1,14 +1,11 @@
 # Kungfu-_DatingSim
 
-Kungfu-_DatingSim is an interactive dating simulator that utilizes a complex modeling system to simulate real-life dating experiences. The game focuses on providing a realistic and engaging dating simulation with a variety of characters and scenarios.
+Kungfu-_DatingSim is an complex dating simulator that utilizes a complex modeling system to simulate real-life dating experiences. The simulation focuses on providing a realistic and engaging dating simulation following a variety of rules.
 
-## Features
+## Rules
 
-- Realistic dating scenarios
-- Complex character interaction system
-- Multiple storylines and endings
-- Dynamic decision-making process
-- High-quality graphics and sound
+- Turtles which collide/meet will register in their memory
+- Turtles who meet at least 3 times will get together
 
 ## Installation
 
